@@ -9,7 +9,7 @@ All teams: [📝 google sheet](https://docs.google.com/spreadsheets/d/1-o4YxKb9U
 Your team: group number 14
 
   - Student 1: Marwa LABAY , @marwalabay1 https://github.com/marwalabay1
-  - Student 2: Nada KOULALI, 
+  - Student 2: Nada KOULALI, @NadKli https://github.com/NadKli
   - Student 3: Abdellah ZAIL,
 
  
